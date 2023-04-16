@@ -825,6 +825,7 @@ hr.white {
 	h1.big,
 	.title-h1.big {
 		font-size: 80px;
+		color: #21282e;
 		line-height: 1;
 		margin-bottom: 50px;
 	}

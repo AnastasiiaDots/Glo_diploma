@@ -20,7 +20,6 @@ const modal = () => {
       !e.target.closest("body") ||
       e.target.matches("img[alt='modal-close']")
     ) {
-      console.log("closed");
       closeModal();
     }
   });
