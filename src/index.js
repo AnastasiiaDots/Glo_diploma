@@ -5,6 +5,8 @@ import slider from "./modules/slider";
 import carousel from "./modules/carousel";
 import scrollUp from "./modules/scrollUp";
 import accordeon from "./modules/accordeon";
+import form from "./modules/form";
+import validation from "./modules/validation";
 
 modal();
 sendForm();
@@ -13,3 +15,5 @@ slider();
 carousel();
 scrollUp();
 accordeon();
+form();
+validation();
